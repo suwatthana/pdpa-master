@@ -1,0 +1,19 @@
+{
+  "name": "pdpa",
+  "version": "1.0.0",
+  "description": "Thai PDPA Website (unofficial)",
+  "scripts": {
+    "build": "gatsby build",
+    "dev": "gatsby develop",
+    "clean": "gatsby clean"
+  },
+  "author": "Siriraj Informatics and Data Innovation Center (SiData+)",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^2.32.13",
+    "gatsby-plugin-manifest": "^2.12.1",
+    "gatsby-theme-andy": "^0.2.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
